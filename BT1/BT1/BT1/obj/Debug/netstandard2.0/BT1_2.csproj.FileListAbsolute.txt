@@ -1,0 +1,7 @@
+E:\Study\Xamarin\homework\BT\BT1_2\BT1_2\BT1_2\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Xamarin\homework\BT\BT1_2\BT1_2\BT1_2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Xamarin\homework\BT\BT1_2\BT1_2\BT1_2\obj\Debug\netstandard2.0\MasterDetailsPage.xaml.g.cs
+E:\Study\Xamarin\homework\BT\BT1_2\BT1_2\BT1_2\obj\Debug\netstandard2.0\BT1_2.csproj.CoreCompileInputs.cache
+E:\Study\Xamarin\homework\BT\BT1_2\BT1_2\BT1_2\obj\Debug\netstandard2.0\BT1_2.AssemblyInfoInputs.cache
+E:\Study\Xamarin\homework\BT\BT1_2\BT1_2\BT1_2\obj\Debug\netstandard2.0\BT1_2.AssemblyInfo.cs
+E:\Study\Xamarin\homework\BT\BT1_2\BT1_2\BT1_2\obj\Debug\netstandard2.0\BT1_2.csprojAssemblyReference.cache

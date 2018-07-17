@@ -1,0 +1,14 @@
+E:\study\Xamarin\BT1\BT1\BT1\bin\Debug\netstandard2.0\BT1.deps.json
+E:\study\Xamarin\BT1\BT1\BT1\bin\Debug\netstandard2.0\BT1.dll
+E:\study\Xamarin\BT1\BT1\BT1\bin\Debug\netstandard2.0\BT1.pdb
+E:\study\Xamarin\BT1\BT1\BT1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\study\Xamarin\BT1\BT1\BT1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\study\Xamarin\BT1\BT1\BT1\obj\Debug\netstandard2.0\MasterDetailsPage.xaml.g.cs
+E:\study\Xamarin\BT1\BT1\BT1\obj\Debug\netstandard2.0\BT1.csproj.CoreCompileInputs.cache
+E:\study\Xamarin\BT1\BT1\BT1\obj\Debug\netstandard2.0\BT1.AssemblyMetadataInputs.cache
+E:\study\Xamarin\BT1\BT1\BT1\obj\Debug\netstandard2.0\BT1.AssemblyMetadata.cs
+E:\study\Xamarin\BT1\BT1\BT1\obj\Debug\netstandard2.0\BT1.AssemblyInfoInputs.cache
+E:\study\Xamarin\BT1\BT1\BT1\obj\Debug\netstandard2.0\BT1.AssemblyInfo.cs
+E:\study\Xamarin\BT1\BT1\BT1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\study\Xamarin\BT1\BT1\BT1\obj\Debug\netstandard2.0\BT1.dll
+E:\study\Xamarin\BT1\BT1\BT1\obj\Debug\netstandard2.0\BT1.pdb

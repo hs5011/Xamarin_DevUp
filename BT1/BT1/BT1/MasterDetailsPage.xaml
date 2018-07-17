@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BT1.MasterDetailsPage">
+    <MasterDetailPage.Master>
+        <ContentPage Padding="10" BackgroundColor="White" Title="Master">
+            <ContentPage.Content>
+                <AbsoluteLayout>
+                    <AbsoluteLayout AbsoluteLayout.LayoutBounds="0,0,1,.2" AbsoluteLayout.LayoutFlags="All" BackgroundColor="Silver">
+                        <StackLayout AbsoluteLayout.LayoutBounds=".3,.7,1,.5" 
+                                     AbsoluteLayout.LayoutFlags="All">
+                            <Label Text="Home,"
+                                   Margin="30" />
+                            </StackLayout>
+                </AbsoluteLayout>
+                <AbsoluteLayout AbsoluteLayout.LayoutBounds="0,.8,1,.7"
+                                AbsoluteLayout.LayoutFlags="All">
+                    <StackLayout Margin="40" >
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                    <RowDefinition Height="50" />
+                                    <RowDefinition Height="50" />
+                                    <RowDefinition Height="50" />
+                                    <RowDefinition Height="50" />
+                                    <RowDefinition Height="50" />
+                                </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="200" />
+                            </Grid.ColumnDefinitions>
+                            <Image x:Name="imgHome"
+                                   WidthRequest="40"
+                                   HeightRequest="40"
+                                   Grid.Row="0"
+                                   Grid.Column="0" />
+                            <Label Text="Home"
+                                   Grid.Row="0"
+                                   Grid.Column="1" />
+                            <Image x:Name="imgBook"
+                                   WidthRequest="40"
+                                   HeightRequest="40"
+                                   Grid.Row="1"
+                                   Grid.Column="0" />
+                            <Label Text="Book a room"
+                                   Grid.Row="1"
+                                   Grid.Column="1" />
+                            <Image x:Name="imgRoom"
+                                   WidthRequest="40"
+                                   HeightRequest="40"
+                                   Grid.Row="2"
+                                   Grid.Column="0" />
+                            <Label Text="My room"
+                                   Grid.Row="2"
+                                   Grid.Column="1" />
+                            <Image x:Name="imgSugg"
+                                   WidthRequest="40"
+                                   HeightRequest="40"
+                                   Grid.Row="3"
+                                   Grid.Column="0" />
+                            <Label Text="Suggestions"
+                                   Grid.Row="3"
+                                   Grid.Column="1" />
+                            <Image x:Name="imgConc"
+                                   WidthRequest="40"
+                                   HeightRequest="40"
+                                   Grid.Row="4"
+                                   Grid.Column="0" />
+                            <Label Text="Concierge"
+                                   Grid.Row="4"
+                                   Grid.Column="1" />
+                            <Image x:Name="imgLogout"
+                                   WidthRequest="40"
+                                   HeightRequest="40"
+                                   Grid.Row="5"
+                                   Grid.Column="0" />
+                            <Label Text="Logout"
+                                   Grid.Row="5"
+                                   Grid.Column="1" />
+                        </Grid>
+                    </StackLayout>
+                </AbsoluteLayout>
+                </AbsoluteLayout>
+            </ContentPage.Content>
+        </ContentPage>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <ContentPage>
+            <ContentPage.Content>
+                <StackLayout Margin="5,30,5,5">
+                    <Label Text="Detail Page"/>
+                </StackLayout>
+            </ContentPage.Content>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

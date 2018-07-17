@@ -1,0 +1,15 @@
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\obj\Debug\netstandard2.0\MasterDetailsPage.xaml.g.cs
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\obj\Debug\netstandard2.0\BT12.csproj.CoreCompileInputs.cache
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\obj\Debug\netstandard2.0\BT12.AssemblyInfoInputs.cache
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\obj\Debug\netstandard2.0\BT12.AssemblyInfo.cs
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\bin\Debug\netstandard2.0\BT12.deps.json
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\bin\Debug\netstandard2.0\BT12.dll
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\bin\Debug\netstandard2.0\BT12.pdb
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\obj\Debug\netstandard2.0\BT12.dll
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\obj\Debug\netstandard2.0\BT12.pdb
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\obj\Debug\netstandard2.0\BT12.csprojAssemblyReference.cache
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\obj\Debug\netstandard2.0\BT12.AssemblyMetadataInputs.cache
+E:\Study\Xamarin\homework\BT\BT12\BT12\BT12\obj\Debug\netstandard2.0\BT12.AssemblyMetadata.cs

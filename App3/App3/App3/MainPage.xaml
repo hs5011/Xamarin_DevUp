@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App3"
+             x:Class="App3.MainPage">
+
+    <StackLayout BackgroundColor="White">
+        <Entry x:Name="txtUserName" Placeholder="UserName"></Entry>
+        <Entry x:Name="txtPass" Placeholder="PassWord" IsPassword="True"></Entry>
+        <Button Text="Login" TextColor="White" BackgroundColor="CornflowerBlue" Clicked="Button_Clicked"></Button>
+        
+    </StackLayout>
+
+</ContentPage>
